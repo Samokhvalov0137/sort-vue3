@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "id": "46gbh4g26vhg46h6h",
+      "name": "Яблоко",
+      "date": "14.03.1995",
+      "amount": "11",
+      "distance": "192",
+      "category": "Фрукты"
+    },
+    {
+      "id": "yejhegdf26vhg46h6h",
+      "name": "Манго",
+      "date": "22.04.1998",
+      "amount": "9",
+      "distance": "170",
+      "category": "Фрукты"
+    },
+    {
+      "id": "wr5ywr6y26vhg46h6h",
+      "name": "Огурец",
+      "date": "15.12.1992",
+      "amount": "38",
+      "distance": "172",
+      "category": "Овощи"
+    },
+    {
+      "id": "ghgyfjhydh6h",
+      "name": "Помидор",
+      "date": "05.07.1995",
+      "amount": "29",
+      "distance": "190",
+      "category": "Овощи"
+    },
+    {
+      "id": "ngwtg452t5r26h6h",
+      "name": "Банан",
+      "date": "15.11.1995",
+      "amount": "11",
+      "distance": "176",
+      "category": "Фрукты"
+    },
+    {
+      "id": "54tr4qd446h6h",
+      "name": "Картошка",
+      "date": "15.04.1969",
+      "amount": "42",
+      "distance": "171",
+      "category": "Овощи"
+    },
+    {
+      "id": "654rd4dvhg46h6h",
+      "name": "Апельсин",
+      "date": "24.04.1964",
+      "amount": "15",
+      "distance": "178",
+      "category": "Фрукты"
+    },
+    {
+      "id": "8596574fr8d8wdbhh6h",
+      "name": "Дыня",
+      "date": "22.06.1995",
+      "amount": "8",
+      "distance": "185",
+      "category": "Фрукты"
+    },
+    {
+      "id": "094ri9ejdi6vhg46h6h",
+      "name": "Фасоль",
+      "date": "23.06.1995",
+      "amount": "53",
+      "distance": "189",
+      "category": "Овощи"
+    },
+    {
+      "id": "4g7rdhf6vhg46h6h",
+      "name": "Морковь",
+      "date": "16.11.1996",
+      "amount": "51",
+      "distance": "185",
+      "category": "Овощи"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Виноград",
+      "date": "18.11.1997",
+      "amount": "11",
+      "distance": "193",
+      "category": "Фрукты"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Груша",
+      "date": "18.11.1997",
+      "amount": "39",
+      "distance": "147",
+      "category": "Фрукты"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Виноград",
+      "date": "18.11.1997",
+      "amount": "89",
+      "distance": "163",
+      "category": "Фрукты"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Спаржа",
+      "date": "18.11.1997",
+      "amount": "132",
+      "distance": "195",
+      "category": "Овощи"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Капуста",
+      "date": "18.11.1997",
+      "amount": "63",
+      "distance": "186",
+      "category": "Овощи"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Киви",
+      "date": "18.11.1997",
+      "amount": "11",
+      "distance": "170",
+      "category": "Фрукты"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Лук",
+      "date": "18.11.1997",
+      "amount": "92",
+      "distance": "137",
+      "category": "Овощи"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Перец",
+      "date": "18.11.1997",
+      "amount": "73",
+      "distance": "185",
+      "category": "Овощи"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Гранат",
+      "date": "18.11.1997",
+      "amount": "18",
+      "distance": "160",
+      "category": "Фрукты"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Персик",
+      "date": "18.11.1997",
+      "amount": "41",
+      "distance": "175",
+      "category": "Фрукты"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Тыква",
+      "date": "18.11.1997",
+      "amount": "16",
+      "distance": "169",
+      "category": "Овощи"
+    },
+    {
+      "id": "d409q8u8sf6vhg46h6h",
+      "name": "Финик",
+      "date": "18.11.1997",
+      "amount": "64",
+      "distance": "182",
+      "category": "Фрукты"
+    }
+  ]
+}
